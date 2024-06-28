@@ -36,4 +36,8 @@
 
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navamayoo&show_icons=true&locale=en" alt="navamayoo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navamayoo&" alt="navamayoo" /></p>
+
 
