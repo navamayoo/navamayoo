@@ -19,7 +19,7 @@
   
 - 💬 Ask me about **MERN -Stack ||.NET || REACT**
   
-- 📫 How to reach me **mayoorannavam@gmail.com**
+- 📫 How to reach me **navamayoo@gmail.com**
   
 - 📄 Know about my experiences [https://www.linkedin.com/in/mayoorann/](https://www.linkedin.com/in/mayoorann/)
 
